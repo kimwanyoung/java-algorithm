@@ -11,7 +11,7 @@ class SolutionTest {
 	@Test
 	public void 추억_점수() {
 		//given
-		Solution memoryScore = new Solution();
+		MemoryScore memoryScore = new MemoryScore();
 
 		String[] names = {"may", "kein", "kain", "radi"};
 		int[] scores = {5, 10, 1, 3};
