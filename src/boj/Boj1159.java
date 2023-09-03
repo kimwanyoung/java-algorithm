@@ -1,8 +1,8 @@
-package boj_1159;
+package boj;
 
 import java.io.*;
 
-public class Main {
+public class Boj1159 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int[] arr = new int[26];
