@@ -1,4 +1,4 @@
-package algorithm.programmers;
+package algorithm.programmers.clothes;
 
 import java.util.HashMap;
 

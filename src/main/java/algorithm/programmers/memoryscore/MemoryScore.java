@@ -1,4 +1,4 @@
-package algorithm.programmers;
+package algorithm.programmers.memoryscore;
 
 import java.util.Arrays;
 import java.util.HashMap;
