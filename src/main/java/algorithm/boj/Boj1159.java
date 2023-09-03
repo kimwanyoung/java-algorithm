@@ -1,4 +1,4 @@
-package boj;
+package algorithm.boj;
 
 import java.io.*;
 
