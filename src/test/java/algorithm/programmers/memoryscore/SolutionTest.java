@@ -13,8 +13,8 @@ class SolutionTest {
 		//given
 		MemoryScore memoryScore = new MemoryScore();
 
-		String[] names = {"may", "kein", "kain", "radi"};
 		int[] scores = {5, 10, 1, 3};
+		String[] names = {"may", "kein", "kain", "radi"};
 		String[][] photo = {{"may", "kein", "kain", "radi"}, {"may", "kein", "brin", "deny"},
 			{"kon", "kain", "may", "coni"}};
 
