@@ -20,8 +20,8 @@ public class WalkInThePark {
 		}
 
 		for (String st : routes) {
-			String way = st.split(" ")[0];
-			int len = Integer.parseInt(st.split(" ")[1]);
+			String way = st.split("")[0];
+			int len = Integer.parseInt(st.split("")[1]);
 
 			int nx = sx;
 			int ny = sy;
