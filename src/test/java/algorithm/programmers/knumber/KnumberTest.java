@@ -1,5 +1,6 @@
 package algorithm.programmers.knumber;
 
+import static org.assertj.core.api.Assertions.*;
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.assertj.core.api.Assertions;
@@ -18,7 +19,7 @@ class KnumberTest {
         int[] answer = k.solution(arr, commands);
 
         //then
-        Assertions.assertThat(answer).isEqualTo(result);
+        assertThat(answer).isEqualTo(result);
 
     }
 }
